@@ -1,0 +1,131 @@
+.top-bar {
+  background-color: #37becc;
+  padding: 1.5em 1.5em;
+}
+
+.top-bar li {
+  background-color: #37becc;
+  color: white;
+}
+
+.top-bar a {
+  color: white;
+}
+
+.top-bar button {
+  background-color: #ed1a7b;
+}
+
+#white_header {
+  font-size: 250%;
+  color: white;
+  padding-top: 2em;
+}
+
+#color_header {
+  font-size: 250%;
+  color: #37becc;
+  padding-top: 1em;
+}
+
+.button {
+  background-color: #84ce15;
+}
+
+.row {
+  margin: 0px;
+  max-width: 100%;
+}
+
+hr {
+  width: 55%;
+}
+
+#description {
+  color: white;
+  width: 55%;
+
+}
+
+#row_1 {
+  background: url("../images/background-1.jpg");
+}
+
+#row_1 .button {
+  margin-bottom: 6em;
+}
+
+#row_2 #description {
+  color: #777777;
+}
+
+#row_2 img {
+  margin-top: 2em;
+  height: 50%;
+  width: 50%;
+}
+
+#row_2 .button {
+  margin-top: 2em;
+  margin-bottom: 3em;
+  background-color: #ed1a7b
+}
+
+#row_3 {
+  background: url("../images/background-2.jpg");
+}
+
+#row_3 a {
+  margin-bottom: 7em;
+}
+
+#row_4 {
+  background-color: #1c2224;
+}
+
+#row_4 #color_header {
+  padding-top: 1em;
+}
+
+#row_4 #description {
+  margin: 0em;
+  padding-bottom: 2em;
+}
+
+#row_5 {
+  background-color: #1c2224;
+}
+
+
+#row_5 .column {
+  background-color: #404040;
+  color: #999999;
+  padding: 0px;
+  border-style: solid;
+  border-width: 1em;
+  border-bottom-width: 3.5em;
+  border-color: #1c2224;
+}
+
+#row_5 .column div {
+  margin: .5em;
+  margin-bottom: 1em;
+}
+
+#row_5 img {
+  margin-top: 2em;
+
+}
+
+#row_6 #contact-us-section {
+  background-color: #E5F3F4;
+}
+
+.columns.mtl {
+  background-color: #E5F3F4;
+  padding-top: 1em;
+}
+
+#row_6 p {
+  margin: 0;
+}
